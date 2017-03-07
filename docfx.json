@@ -1,10 +1,10 @@
-{
+﻿{
   "build": {
     "content": [
       {
-        "files": [
-          "**/*.md"
-        ],
+        "files": ["**/*.yml", "**/*.md"],
+        "src": "azurepowershellrm-v4.5.0",
+        "version": "azurepowershellrm-v4.5.0_test",
         "exclude": [
           "**/obj/**",
           "**/includes/**",
@@ -12,25 +12,31 @@
           "LICENSE",
           "LICENSE-CODE"
         ]
-      }
-    ],
-    "resource": [
+      },
       {
-        "files": [
-          "**/*.png",
-          "**/*.jpg"
-        ],
+        "files": ["**/*.yml", "**/*.md"],
+        "src": "azurepowershellrm-v4.6.0",
+        "version": "azurepowershellrm-v4.6.0_test",
         "exclude": [
           "**/obj/**",
-          "**/includes/**"
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
         ]
+      },
+      {
+        "files": ["*.md", "*.yml"]
       }
     ],
-    "overwrite": [],
-    "externalReference": [],
-    "globalMetadata": {},
-    "fileMetadata": {},
-    "template": [],
-    "dest": "PowerShell"
+    "versions": {
+      "azurepowershellrm-v4.5.0_test": {
+        "dest": "azurepowershellrm-v4.5.0"
+      },
+      "azurepowershellrm-v4.6.0_test": {
+        "dest": "azurepowershellrm-v4.6.0"
+      }
+    },
+    "dest": "testMultipleVersion"
   }
 }
