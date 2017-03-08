@@ -1,7 +1,7 @@
 ---
 Module Name: AzureRM.Cdn
 Module Guid: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
-Locale: en-US
+locale: en-us
 ms.assetid: D5D8D826-D8BC-4079-897B-3DAD745351E7
 ---
 
