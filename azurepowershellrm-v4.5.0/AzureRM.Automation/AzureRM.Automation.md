@@ -21,10 +21,10 @@ Exports a DSC configuration from Automation to a local file.
 ### [Export-AzureRmAutomationDscNodeReportContent](Export-AzureRmAutomationDscNodeReportContent.md)
 Exports the raw content of a DSC report sent from a DSC node to Automation.
 
-### [Export-AzureRmAutomationRunbook](Export-AzureRmAutomationRunbook.md)
+### [Export-AzureRmAutomationRunbook](Export-AzureRmAutomationRunbook.md?query1=false)
 Exports an Automation runbook.
 
-### [Get-AzureRmAutomationAccount](Get-AzureRmAutomationAccount.md)
+### [Get-AzureRmAutomationAccount](Get-AzureRmAutomationAccount.md?query1=false#bookmark)
 Gets Automation accounts in a resource group.
 
 ### [Get-AzureRmAutomationCertificate](Get-AzureRmAutomationCertificate.md)
