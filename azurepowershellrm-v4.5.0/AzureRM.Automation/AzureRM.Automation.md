@@ -5,6 +5,11 @@ Download Help Link: None_Azure
 Locale: en-US
 ---
 
+[bookmark](#description)
+[AzureRM.Automation Module](#AzureRM.Automation-Module)
+<a href="#description">Description1</a>
+<a href="#description">Description2</a>
+
 # AzureRM.Automation Module
 ## Description
 This topic displays help topics for the Azure Automation Cmdlets.
