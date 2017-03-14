@@ -125,14 +125,19 @@
           "LICENSE-CODE"
         ]
       },
-
       {
         "files": [
           "*.md",
-          "*.yml"
+          "*.yml",
+          "**/breadcrumb/**/toc.yml"
         ]
       }
     ],
+    "fileMetadata": {
+      "breadcrumb_path": {
+        "azadps/2.0.0.52/*.yml": "/powershell/breadcrumb/2.0.0.52/toc.yml"
+      }
+    },
     "versions": {
       "azadps-2.0.0.52": {
         "dest": "azadps-2.0.0.52"
