@@ -1,0 +1,115 @@
+- name: Index
+  href: ../conceptual/1.3.155.2/index.md
+- name: AADRM
+  href: AADRM\RightsManagement.md
+  items:
+    - name: Get-AadrmSuperUserGroup
+      href: AADRM\Get-AadrmSuperUserGroup.md
+    - name: Get-AadrmKeys
+      href: AADRM\Get-AadrmKeys.md
+    - name: Add-AadrmSuperUser
+      href: AADRM\Add-AadrmSuperUser.md
+    - name: Set-AadrmTemplateProperty
+      href: AADRM\Set-AadrmTemplateProperty.md
+    - name: Add-AadrmRoleBasedAdministrator
+      href: AADRM\Add-AadrmRoleBasedAdministrator.md
+    - name: Enable-AadrmDocumentTrackingFeature
+      href: AADRM\Enable-AadrmDocumentTrackingFeature.md
+    - name: Clear-AadrmSuperUserGroup
+      href: AADRM\Clear-AadrmSuperUserGroup.md
+    - name: Disable-AadrmIPCv3Service
+      href: AADRM\Disable-AadrmIPCv3Service.md
+    - name: Enable-AadrmSuperUserFeature
+      href: AADRM\Enable-AadrmSuperUserFeature.md
+    - name: Add-AadrmTemplate
+      href: AADRM\Add-AadrmTemplate.md
+    - name: Connect-AadrmService
+      href: AADRM\Connect-AadrmService.md
+    - name: Disable-AadrmUsageLogFeature
+      href: AADRM\Disable-AadrmUsageLogFeature.md
+    - name: Disable-AadrmDocumentTrackingFeature
+      href: AADRM\Disable-AadrmDocumentTrackingFeature.md
+    - name: Convert-AadrmKeyToKeyVault
+      href: AADRM\Convert-AadrmKeyToKeyVault.md
+    - name: Disable-AadrmDevicePlatform
+      href: AADRM\Disable-AadrmDevicePlatform.md
+    - name: Add-AadrmKey
+      href: AADRM\Add-AadrmKey.md
+    - name: Disable-AadrmSuperUserFeature
+      href: AADRM\Disable-AadrmSuperUserFeature.md
+    - name: Disable-Aadrm
+      href: AADRM\Disable-Aadrm.md
+    - name: Enable-Aadrm
+      href: AADRM\Enable-Aadrm.md
+    - name: Get-AadrmAdminLog
+      href: AADRM\Get-AadrmAdminLog.md
+    - name: Enable-AadrmDevicePlatform
+      href: AADRM\Enable-AadrmDevicePlatform.md
+    - name: Enable-AadrmIPCv3Service
+      href: AADRM\Enable-AadrmIPCv3Service.md
+    - name: Get-AadrmDocumentTrackingFeature
+      href: AADRM\Get-AadrmDocumentTrackingFeature.md
+    - name: Get-AadrmConfiguration
+      href: AADRM\Get-AadrmConfiguration.md
+    - name: Get-Aadrm
+      href: AADRM\Get-Aadrm.md
+    - name: Disconnect-AadrmService
+      href: AADRM\Disconnect-AadrmService.md
+    - name: Get-AadrmMaxUseLicenseValidityTime
+      href: AADRM\Get-AadrmMaxUseLicenseValidityTime.md
+    - name: Enable-AadrmUsageLogFeature
+      href: AADRM\Enable-AadrmUsageLogFeature.md
+    - name: Get-AadrmOnboardingControlPolicy
+      href: AADRM\Get-AadrmOnboardingControlPolicy.md
+    - name: Export-AadrmTemplate
+      href: AADRM\Export-AadrmTemplate.md
+    - name: Get-AadrmTemplate
+      href: AADRM\Get-AadrmTemplate.md
+    - name: Get-AadrmSuperUserFeature
+      href: AADRM\Get-AadrmSuperUserFeature.md
+    - name: Get-AadrmMigrationUrl
+      href: AADRM\Get-AadrmMigrationUrl.md
+    - name: Get-AadrmDevicePlatform
+      href: AADRM\Get-AadrmDevicePlatform.md
+    - name: Get-AadrmRoleBasedAdministrator
+      href: AADRM\Get-AadrmRoleBasedAdministrator.md
+    - name: Get-AadrmSuperUser
+      href: AADRM\Get-AadrmSuperUser.md
+    - name: Get-AadrmUsageLogFeature
+      href: AADRM\Get-AadrmUsageLogFeature.md
+    - name: Import-AadrmTpd
+      href: AADRM\Import-AadrmTpd.md
+    - name: Get-AadrmUsageLog
+      href: AADRM\Get-AadrmUsageLog.md
+    - name: Use-AadrmKeyVaultKey
+      href: AADRM\Use-AadrmKeyVaultKey.md
+    - name: Get-AadrmTemplateProperty
+      href: AADRM\Get-AadrmTemplateProperty.md
+    - name: Import-AadrmTemplate
+      href: AADRM\Import-AadrmTemplate.md
+    - name: Remove-AadrmTemplate
+      href: AADRM\Remove-AadrmTemplate.md
+    - name: Set-AadrmMigrationUrl
+      href: AADRM\Set-AadrmMigrationUrl.md
+    - name: Get-AadrmUsageLogStorageAccount
+      href: AADRM\Get-AadrmUsageLogStorageAccount.md
+    - name: Set-AadrmSuperUserGroup
+      href: AADRM\Set-AadrmSuperUserGroup.md
+    - name: New-AadrmRightsDefinition
+      href: AADRM\New-AadrmRightsDefinition.md
+    - name: Set-AadrmOnboardingControlPolicy
+      href: AADRM\Set-AadrmOnboardingControlPolicy.md
+    - name: Remove-AadrmSuperUser
+      href: AADRM\Remove-AadrmSuperUser.md
+    - name: Get-AadrmUsageLogLastCounterValue
+      href: AADRM\Get-AadrmUsageLogLastCounterValue.md
+    - name: Set-AadrmMaxUseLicenseValidityTime
+      href: AADRM\Set-AadrmMaxUseLicenseValidityTime.md
+    - name: Remove-AadrmRoleBasedAdministrator
+      href: AADRM\Remove-AadrmRoleBasedAdministrator.md
+    - name: Get-AadrmUserLog
+      href: AADRM\Get-AadrmUserLog.md
+    - name: Set-AadrmUsageLogStorageAccount
+      href: AADRM\Set-AadrmUsageLogStorageAccount.md
+    - name: Get-AadrmIPCv3Service
+      href: AADRM\Get-AadrmIPCv3Service.md

@@ -1,6 +1,7 @@
 {
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
+  "package_version" : "latest-prerelease",
   "docsets_to_publish": [
     {
       "docset_name": "PowerShell",
@@ -16,7 +17,10 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes",
-      "version": 0
+      "version": 0,
+      "customized_template_paths": [
+        "_dependentPackages/azurecli.plugins/azurecli"
+      ]
     }
   ],
   "notification_subscribers": [],
@@ -27,8 +31,16 @@
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "master",
+      "branch": "jehuan",
       "branch_mapping": {}
+    }
+  ],
+  "dependent_packages": [
+    {
+      "path_to_root": "_dependentPackages/azurecli.plugins",
+      "id": "opbuild.templates.azurecli",
+      "version": "latest-prerelease",
+      "nuget_feed": "https://www.myget.org/F/op/api/v2"
     }
   ],
   "need_generate_pdf_url_template": false

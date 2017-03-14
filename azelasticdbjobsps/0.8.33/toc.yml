@@ -1,0 +1,73 @@
+- name: Index
+  href: ../conceptual/0.8.33/index.md
+- name: ElasticDatabaseJobs
+  href: ElasticDatabaseJobs\ElasticDatabaseJobs.md
+  items:
+    - name: Get-AzureSqlJob
+      href: ElasticDatabaseJobs\Get-AzureSqlJob.md
+    - name: Get-AzureSqlJobCredential
+      href: ElasticDatabaseJobs\Get-AzureSqlJobCredential.md
+    - name: Add-AzureSqlJobChildTarget
+      href: ElasticDatabaseJobs\Add-AzureSqlJobChildTarget.md
+    - name: Get-AzureSqlJobExecution
+      href: ElasticDatabaseJobs\Get-AzureSqlJobExecution.md
+    - name: Get-AzureSqlJobScriptBatchExecution
+      href: ElasticDatabaseJobs\Get-AzureSqlJobScriptBatchExecution.md
+    - name: New-AzureSqlJob
+      href: ElasticDatabaseJobs\New-AzureSqlJob.md
+    - name: Get-AzureSqlJobContent
+      href: ElasticDatabaseJobs\Get-AzureSqlJobContent.md
+    - name: Get-AzureSqlJobExecutionPolicy
+      href: ElasticDatabaseJobs\Get-AzureSqlJobExecutionPolicy.md
+    - name: Get-AzureSqlJobSchedule
+      href: ElasticDatabaseJobs\Get-AzureSqlJobSchedule.md
+    - name: New-AzureSqlJobConnection
+      href: ElasticDatabaseJobs\New-AzureSqlJobConnection.md
+    - name: Get-AzureSqlJobContentDefinition
+      href: ElasticDatabaseJobs\Get-AzureSqlJobContentDefinition.md
+    - name: New-AzureSqlJobContent
+      href: ElasticDatabaseJobs\New-AzureSqlJobContent.md
+    - name: New-AzureSqlJobSchedule
+      href: ElasticDatabaseJobs\New-AzureSqlJobSchedule.md
+    - name: Get-AzureSqlJobTrigger
+      href: ElasticDatabaseJobs\Get-AzureSqlJobTrigger.md
+    - name: New-AzureSqlJobCredential
+      href: ElasticDatabaseJobs\New-AzureSqlJobCredential.md
+    - name: Remove-AzureSqlJob
+      href: ElasticDatabaseJobs\Remove-AzureSqlJob.md
+    - name: Get-AzureSqlJobTarget
+      href: ElasticDatabaseJobs\Get-AzureSqlJobTarget.md
+    - name: Remove-AzureSqlJobTrigger
+      href: ElasticDatabaseJobs\Remove-AzureSqlJobTrigger.md
+    - name: New-AzureSqlJobTrigger
+      href: ElasticDatabaseJobs\New-AzureSqlJobTrigger.md
+    - name: Wait-AzureSqlJobExecution
+      href: ElasticDatabaseJobs\Wait-AzureSqlJobExecution.md
+    - name: Set-AzureSqlJobExecutionPolicy
+      href: ElasticDatabaseJobs\Set-AzureSqlJobExecutionPolicy.md
+    - name: Start-AzureSqlJobExecution
+      href: ElasticDatabaseJobs\Start-AzureSqlJobExecution.md
+    - name: Use-AzureSqlJobConnection
+      href: ElasticDatabaseJobs\Use-AzureSqlJobConnection.md
+    - name: Set-AzureSqlJobTarget
+      href: ElasticDatabaseJobs\Set-AzureSqlJobTarget.md
+    - name: New-AzureSqlJobExecutionPolicy
+      href: ElasticDatabaseJobs\New-AzureSqlJobExecutionPolicy.md
+    - name: Set-AzureSqlJobContentDefinition
+      href: ElasticDatabaseJobs\Set-AzureSqlJobContentDefinition.md
+    - name: Remove-AzureSqlJobChildTarget
+      href: ElasticDatabaseJobs\Remove-AzureSqlJobChildTarget.md
+    - name: New-AzureSqlJobTarget
+      href: ElasticDatabaseJobs\New-AzureSqlJobTarget.md
+    - name: Set-AzureSqlJob
+      href: ElasticDatabaseJobs\Set-AzureSqlJob.md
+    - name: Set-AzureSqlJobSchedule
+      href: ElasticDatabaseJobs\Set-AzureSqlJobSchedule.md
+    - name: Stop-AzureSqlJobExecution
+      href: ElasticDatabaseJobs\Stop-AzureSqlJobExecution.md
+    - name: Set-AzureSqlJobCredential
+      href: ElasticDatabaseJobs\Set-AzureSqlJobCredential.md
+    - name: Set-AzureSqlJobTrigger
+      href: ElasticDatabaseJobs\Set-AzureSqlJobTrigger.md
+    - name: Get-AzureSqlJobTaskExecution
+      href: ElasticDatabaseJobs\Get-AzureSqlJobTaskExecution.md
